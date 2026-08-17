@@ -22,3 +22,4 @@ Category region, customer, and product analysis
 
 ##Key insights
 Sales by Sub Category
+<img width="721" height="537" alt="download" src="https://github.com/user-attachments/assets/b82b450e-79aa-42a2-8fb9-c9ed75b38a6a" />
